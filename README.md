@@ -1,7 +1,6 @@
-Rubik’s Cube Puzzle Simulator
+**Rubik’s Cube Puzzle Simulator**
 
-Team Members
-
+**Team Members**
 
 
 
@@ -16,17 +15,17 @@ Nico Escobedo (Developer)
 
 Luca Ficano (Developer)
 
-Project Description
+**Project Description**
 
 A 3D Rubik’s Cube simulator built with Java, JOGL, and JavaFX, inspired by Chess.com’s random puzzles. Players solve randomized cube scrambles at Beginner (2 moves), Intermediate (15 moves), or Hard (25 moves) difficulty levels using keyboard controls. Designed for puzzle enthusiasts and students exploring 3D graphics and OOP principles.
 
-How to Run
+**How to Run**
 
 
 
 
 
-Prerequisites:
+**Prerequisites:**
 
 
 
@@ -52,7 +51,7 @@ IntelliJ IDEA (recommended)
 
 
 
-Setup:
+**Setup:**
 
 
 
@@ -66,7 +65,7 @@ Download JavaFX SDK from openjfx.io and unzip.
 
 
 
-Build and Run:
+**Build and Run:**
 
 
 
@@ -84,7 +83,7 @@ Click Run or use mvn javafx:run.
 
 
 
-Troubleshooting:
+**Troubleshooting:**
 
 
 
@@ -124,7 +123,7 @@ JavaFX UI with home screen, difficulty selection, and back button to restart.
 
 Smooth 60 FPS rendering with JOGL, supporting mouse-dragged camera rotation.
 
-Future Work
+**Future Work**
 
 
 
@@ -148,7 +147,7 @@ Add rotation animations for smoother visuals.
 
 Support larger cubes (e.g., 4x4).
 
-Known Issues
+**Known Issues**
 
 
 
